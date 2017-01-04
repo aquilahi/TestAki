@@ -77,7 +77,7 @@ def main():
         #ファイル名の指定には､スラが入るので気を着けること
 
         #処理終了がわかりにくいので､出力してみただけです｡
-        print("Done!!!")
+        print("Finished!!!")
     except requests.TimeoutError as err:
         print("Error happens:Timeout -> " + err.message)
 
