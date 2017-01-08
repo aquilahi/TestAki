@@ -1,0 +1,14 @@
+#########################################################
+#definitions of arguments for runtime
+#these values below are variable on each runtime
+#Definition Rule -> key:value
+#実行時の引数を定義します
+#これらの値は､実行ごとに変化しうる値です｡
+#属性は､右記のルールで記述されます｡ -> key,value
+#########################################################
+#language of Bloomberg to extract news page(English/Japanese)
+lang,Japanese
+#file path to output result
+outputPath,C:\Temp\work\python_webscraping\bloomberg\
+#target word to search in news
+target,トヨタ

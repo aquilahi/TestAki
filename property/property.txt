@@ -1,0 +1,9 @@
+########################################################
+#definition of properties that are necesary to run this program
+#Commonly used in each environment
+#Definition Rule -> key:value
+#プログラム実行時に必要な属性を定義します｡
+#あらゆる環境で､共通で用いられる属性を定義します｡
+#属性は､右記のルールで記述されます｡ -> key,value
+########################################################
+ArgumentFilePath,C:\Users\aki\Documents\GitHub\TestAki\args\args.txt
